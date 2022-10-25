@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Undertale engine", "Undertale engine\Undertale engine.csproj", "{F30C4467-0D24-4922-A009-28D31680479B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F30C4467-0D24-4922-A009-28D31680479B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30C4467-0D24-4922-A009-28D31680479B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30C4467-0D24-4922-A009-28D31680479B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30C4467-0D24-4922-A009-28D31680479B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B3190EF-92F8-4054-BAFD-679D59B3CAE9}
+	EndGlobalSection
+EndGlobal
